@@ -15,7 +15,7 @@
     <RepositoryUrl>https://github.com/micdenny/WpfScreenHelper</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>2.2.1</Version>
-    <FileVersion>2023.2.21.3</FileVersion>
+    <FileVersion>2025.2.18.3</FileVersion>
   </PropertyGroup>
 
   <Target Name="CopyPackage" AfterTargets="Pack">
